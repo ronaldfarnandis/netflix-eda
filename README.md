@@ -29,30 +29,6 @@ This analysis covers several key aspects of Netflix's content:
 * **Rating Evolution:** Shifts in content rating distribution over time.
 * **Country-Genre Specialization:** Exploration of genre preferences by country.
 
-## Key Visualizations
-
-Here are some of the insights revealed through data visualization:
-
-**(Replace these placeholders with actual screenshots of your best plots from your Jupyter Notebook. You'll need to upload the image files to your GitHub repository first, then link them here.)**
-
-### Distribution of Movies vs. TV Shows
-![Content Type Distribution](path/to/your/content_type_distribution.png)
-
-### Number of Titles Added Over the Years
-![Content Added Over Years](path/to/your/content_added_over_years.png)
-
-### Top 10 Countries with Most Content
-![Top 10 Countries](path/to/your/top_countries.png)
-
-### Top 10 Genres/Categories
-![Top 10 Genres](path/to/your/top_genres.png)
-
-### Distribution of Movie Durations
-![Movie Duration Distribution](path/to/your/movie_duration_distribution.png)
-
-### Genre Distribution within Top 5 Countries
-![Country Genre Distribution](path/to/your/country_genre_distribution.png)
-
 
 ## How to View and Run
 
